@@ -17,8 +17,8 @@ If you are behind a NAT, it can be difficult for peers outside your subnet to re
 
 Most users should only install harvesters, farmers, plotter, full nodes, and wallets. Building Timelords and VDFs is for sophisticated users, in most environments. Anand Network and additional volunteers are running sufficient Timelords for consensus.
 
-Installing
+# Installing
 Install instructions are available in the INSTALL section of the Anand-coin-blockchain repository wiki.
 
-Running
+# Running
 Once installed, a Quick Start Guide is available from the repository wiki.
